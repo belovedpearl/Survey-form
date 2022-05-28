@@ -1,0 +1,20 @@
+.bigside{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about{
+    width: 300px;
+    height: 100px;
+}
+.itext{
+    width: 300px;
+}
+.response{
+    border-radius: 50%;
+    border: 1px solid grey;
+}
+h2{
+    font-size: xx-large;
+    font-weight: bolder;
+}
